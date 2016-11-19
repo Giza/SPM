@@ -1,9 +1,9 @@
 ![logo](https://github.com/lib2k/SPM/raw/master/logo.png)
 
 #Steam Profit Maker 
-SPM repo for archival purposes. Not maintained.
-
----
+SPM repo for archival purposes. Not maintained.  
+###[Download](https://github.com/lib2k/SPM/releases/latest)
+====
 
 #### Original Description:
 
